@@ -1,8 +1,9 @@
 ## Important GIT commands you'll need to know 🔥 [Part 1] (for the major part of your work)
 
-👆***NOTE:*** *This blog will be a bit longer as I will be explaining all the commands. Thus I will divide the blog into **two parts** (this being the first one). I will update this part with a link to part 2 once I publish it. Both parts will also contain a **summary** which will contain a list of all the commands mentioned in the blog for a quick revision. *
+👆***NOTE:*** *This blog will be a bit longer as I will be explaining all the commands. Thus I will divide the blog into **two parts** (this being the first one). The link to the next part is  [Part 2](https://blog.sohamderoy.dev/important-git-commands-youll-need-to-know-part-2-for-the-major-part-of-your-work). Both parts will also contain a **summary** section which will contain a list of all the commands mentioned in the blog for a quick revision. *
 
 # 📋 Summary
+In this part, we will cover the following commands ⬇️⬇️⬇️
 - `git init`: To initialise a local directory with git.
 - `git status`: To check the status of your repo i.e. to see if any file has been edited/ deleted/ added. It also shows all the tracked and untracked files. Stashed changes will not be reflected in `git status`.
 - `git add <file name>`/ `git add .`: Adds changes in a particular file/ all changes in the staging area.
