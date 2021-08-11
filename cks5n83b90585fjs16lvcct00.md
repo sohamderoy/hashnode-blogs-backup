@@ -1,7 +1,7 @@
 ## Important GIT commands you'll need to know 🔥 [Part 2] (for the major part of your work)
 
 # 📋 Summary
-
+In this part, we will cover the following commands ⬇️⬇️⬇️
 - `git clone <Remote_URL>`: To clone the remote repo to your local machine.
 - `git checkout -b <Branch_Name> origin/<Branch_Name>`: This will create a new local branch named ***"Branch_Name"*** AND will also set it to track the remote copy of the branch ***"origin/Branch_Name"***.
 - `git fetch`: It will fetch the changes from the remote and put them in our local repo. It will **not** make the changes **visible in the working directory**.
