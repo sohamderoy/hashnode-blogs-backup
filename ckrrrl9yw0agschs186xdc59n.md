@@ -9,7 +9,7 @@ In this part, we will cover the following commands ⬇️⬇️⬇️
 - `git add <file name>`/ `git add .`: Adds changes in a particular file/ all changes in the staging area.
 - `git commit -m "commit message describing in short what changes are made"`: To commit the changes.
 - `git remote add origin <remote repo url>`: Connects local repo to a remote repo.
-- `git push -u origin <Local repo name>`: Pushes all the committed changes from the local repo to the remote repo.
+- `git push -u origin <Local branch name>`: Pushes all the committed changes from the local repo to the remote repo.
 - `git remote -v`: Will list down all the remote repos that are linked to the local repo.
 - `git branch -a`: To see all the branches in your repo **(local + remote)**.
 - `git checkout <branch name>`: To checkout/ see the code in a branch.
@@ -59,11 +59,11 @@ In collaborative teamwork, chances are that more than one person is working on a
 - In the git bash terminal run the command `git remote add origin <url>`. This will now connect our local repo to the remote repo. Here `origin` is the shortcut name that we assign to the remote Github URL. Thus `origin` = `<remote Github url>`. It is not compulsory though but advised to name the base repo as `origin`. 
 
 ### How to push all the changes from local to remote. 🤔
-- Run the command `git push -u origin <Local repo name>` i.e in this case `git push -u origin master`. This will push all the committed changes from the local repo to the remote repo. The changes will now get reflected in the remote Github repo as shown below.
+- Run the command `git push -u origin <Local branch name>` i.e in this case `git push -u origin master`. This will push all the committed changes from the local repo to the remote repo. The changes will now get reflected in the remote Github repo as shown below.
 
 ![Picture8.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1627725476727/i6zXvV-Sh.png)
-- Thus `git push -u origin repo-example-name-1` will create a new branch in the remote repo with a name **repo-example-name-1** *(if it is not present already)* and **push all the committed changes** from the **local** branch you ran the command to the **remote branch**. 
-- Please note 👆 that in a subsequent execution of `git push -u origin repo-example-name-1` a new branch in the remote repo (with name repo-example-name-1) is not created as it is already present in the remote repo.
+- Thus `git push -u origin branch-example-name-1` will create a new branch in the remote repo with a name **branch-example-name-1** *(if it is not present already)* and **push all the committed changes** from the **local** branch you ran the command to the **remote branch**. 
+- Please note 👆 that in a subsequent execution of `git push -u origin branch-example-name-1` a new branch in the remote repo (with name branch-example-name-1) is not created as it is already present in the remote repo.
 - It also sets the **local branch to track the remote branch at the origin**.
 
 Another handy command to keep in your toolbox is the following
