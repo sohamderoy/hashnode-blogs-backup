@@ -252,7 +252,7 @@ Using arbitrary values may be useful when you need a specific style at only a fe
 
 I really hope that I was able to make you understand what Tailwind CSS is and what can be achieved with it. It is a CSS framework that provides us with **single-purpose utility classes** which are **opinionated** for the most part, and which help us design our web pages from right inside our *markup* or *.js/.jsx/.ts/.tsx files*. In my opinion, it's **simple** and **easy to understand**. It's true that it might take some time to get hang of all the utility class names. Do refer to their documentation whenever you get stuck. And to all the beginners out there who are just starting their journey with web development, it is very important to know what CSS3 is before you even explore Tailwind or for that matter any other CSS framework like Bootstrap, Windi CSS etc. 
 
-*Thanks for reading! If you like this blog and feel it's useful, do consider hitting the liKe button and sharing it with your friends, I'd really appreciate that. Stay tuned for more amazing content! 🖖*
+*Thanks for reading! If you like this blog and feel it's useful, do consider hitting the like button and sharing it with your friends, I'd really appreciate that. Stay tuned for more amazing content! 🖖*
 
 
 
