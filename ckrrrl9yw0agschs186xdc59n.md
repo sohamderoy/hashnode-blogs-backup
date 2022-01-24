@@ -97,7 +97,7 @@ As seen in the image above, initially there were only two branches **master** *(
 
 I'll end Part 1 of this blog here. I hope that the content provided in this part will be helpful to all the readers. In the next part, I'll cover the rest of the git commands which are worth keeping in your toolbelt so stay tuned in. 
 
-*Thanks for reading! If you like this blog and feel it's useful, do consider hitting the link button and share it with your friends, I'd really appreciate that. Stay tuned! * 🖖
+*Thanks for reading! If you like this blog and feel it's useful, do consider hitting the like button and share it with your friends, I'd really appreciate that. Stay tuned! * 🖖
 
 
 
