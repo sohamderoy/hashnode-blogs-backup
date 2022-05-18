@@ -1,4 +1,4 @@
-## Understanding Redux: Demystifying Store, Action and Reducers
+## Understanding Redux (Part 1): Demystifying Store, Action and Reducers
 
 # Introduction
 
