@@ -342,7 +342,7 @@ Thanks for reading! I really hope you enjoyed reading about how to spin up a red
 
 ## Social Links
 
-- [LinkedIn](linkedin.com/in/sohamderoy)
+- [LinkedIn](https://www.linkedin.com/feed/)
 - [Website](www.sohamderoy.dev)
 - [Blog site](blog.sohamderoy.dev)
 
