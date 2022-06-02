@@ -189,9 +189,9 @@ Thanks for reading! I hope you liked this short and quick article on different m
 
 ## Social Links
 
-- [LinkedIn](linkedin.com/in/sohamderoy)
-- [Website](www.sohamderoy.dev)
-- [Blog site](blog.sohamderoy.dev)
+- [LinkedIn](https://www.linkedin.com/feed/)
+- [Website](https://www.sohamderoy.dev/)
+- [Blog site](https://blog.sohamderoy.dev/)
 
  
 
