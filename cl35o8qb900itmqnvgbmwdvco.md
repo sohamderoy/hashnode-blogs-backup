@@ -222,8 +222,9 @@ In the next blog, I'll show how to get started with your first redux powered rea
 
 ## Social Links
 
-- LinkedIn : https://www.linkedin.com/in/sohamderoy/
-- Website: https://www.sohamderoy.dev/
+- [LinkedIn](https://www.linkedin.com/feed/)
+- [Website](https://www.sohamderoy.dev/)
+- [Blog site](https://blog.sohamderoy.dev/)
 
 
 
