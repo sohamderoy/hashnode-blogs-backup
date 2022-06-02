@@ -148,3 +148,9 @@ In case you are working on some files, made some changes but also at the same ti
 This marks the end of this blog. Don't get me wrong, this (i.e. the content covered in [Part 1](https://blog.sohamderoy.dev/important-git-commands-youll-need-to-know-part-1-for-the-major-part-of-your-work) and Part 2) is **not all of git**. It can never be. I will be releasing some more blogs in the future related to other commands in git. But the content covered in both these parts will help you **sail through 99% of your daily task**. That was my main motive for these two parts. There are some more important commands in git, but those are not used that often when compared to the ones mentioned in both these parts. Don't worry, I'll soon gonna cover them separately.
 
 *I hope that the content provided in both these parts will be helpful to all the readers. Thanks for reading! If you like this blog and feel it's useful, do consider hitting the like button and share it with your friends, I'd really appreciate that. Stay tuned! 🖖*
+
+## Social Links
+
+- [LinkedIn](https://www.linkedin.com/feed/)
+- [Website](https://www.sohamderoy.dev/)
+- [Blog site](https://blog.sohamderoy.dev/)
