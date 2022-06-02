@@ -71,6 +71,10 @@ It is important to note that "Not all search operators return exhaustive results
 ## Wrapup
 *Thanks for reading! If you like this blog and feel it's useful, do consider hitting the like button and sharing it with your friends, I'd really appreciate that. Stay tuned for more amazing content! 🖖*
 
-[**Follow me on linkedin**](https://www.linkedin.com/in/sohamderoy/)
+## Social Links
+
+- [LinkedIn](https://www.linkedin.com/feed/)
+- [Website](https://www.sohamderoy.dev/)
+- [Blog site](https://blog.sohamderoy.dev/)
 
 
